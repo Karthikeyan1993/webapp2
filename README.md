@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g93spgqawtyjtgh5?svg=true)](https://ci.appveyor.com/project/baraneetharan/webapp2)
+
 # Welcome to ASP.NET 5
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
