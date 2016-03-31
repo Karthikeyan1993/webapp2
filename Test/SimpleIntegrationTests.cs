@@ -39,7 +39,7 @@ namespace webapp2.Test
             Assert.True(response.IsSuccessStatusCode);
             // Assert
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
-            Assert.Equal(@"[""value100"",""value200"",""value00""]", deserialized);                        
+            Assert.Equal(@"[""value100"",""value200"",""value300""]", deserialized);                        
         }
     }
 }
